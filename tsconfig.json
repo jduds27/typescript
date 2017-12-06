@@ -24,6 +24,6 @@
     // "026_namespaces.ts"
     // "027_this.ts"
     // "028_higher_order_functions_callbacks.ts"
-    "029_promise.ts"
+    "029_promises.ts"
   ]
 }
