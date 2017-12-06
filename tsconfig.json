@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    // "005_typescript_config.ts"
+    // "006_variables.ts"
+    // "009_union_types.ts"
+    // "010_arithmetic_operators.ts"
+    // "011_conditionals.ts"
+    // "012_conditional_operators.ts"
+    // "013_compound_conditionals.ts"
+    // "014_loops.ts"
+    // "015_functions.ts"
+    // "016_function_args.ts"
+    // "017_function_declarations_vs_expressions.ts"
+    //"018_immediatley_invoked_functions.ts"
+    // "022_objects.ts"
+    // "023_interfaces.ts"
+    // "024_interfaces_functions.ts"
+    // "025_interface_classes.ts"
+    "026_namespaces.ts"
+  ]
+}
