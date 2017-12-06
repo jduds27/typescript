@@ -20,6 +20,7 @@
     // "024_interfaces_functions.ts"
     // "025_interface_classes.ts"
     // "026_namespaces.ts"
-    "027_this.ts"
+    // "027_this.ts"
+    "028_higher_order_functions_callbacks.ts"
   ]
 }
