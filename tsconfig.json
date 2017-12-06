@@ -29,6 +29,7 @@
     // "028_higher_order_functions_callbacks.ts"
     // "029_promises.ts"
     // "030_decorator_intro.ts"
-    "031_class_decorators.ts"
+    // "031_class_decorators.ts"
+    "032_method_decorators.ts"
   ]
 }
