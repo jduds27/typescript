@@ -28,6 +28,7 @@
     // "027_this.ts"
     // "028_higher_order_functions_callbacks.ts"
     // "029_promises.ts"
-    "030_decorator_intro.ts"
+    // "030_decorator_intro.ts"
+    "031_class_decorators.ts"
   ]
 }
