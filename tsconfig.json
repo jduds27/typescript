@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "module": "amd",
+    "target": "es6",
     "sourceMap": true
   },
   "files": [
@@ -21,6 +23,7 @@
     // "025_interface_classes.ts"
     // "026_namespaces.ts"
     // "027_this.ts"
-    "028_higher_order_functions_callbacks.ts"
+    // "028_higher_order_functions_callbacks.ts"
+    "029_promise.ts"
   ]
 }
